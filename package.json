@@ -1,0 +1,13 @@
+{
+  "name": "st7567a",
+  "version": "1.0.0",
+  "description": "JS Driver for ST7567A 128x32 Dots LCD",
+  "main": "index.js",
+  "repository": "git@github.com:jurgenzz/ST7567A.git",
+  "author": "jurg.is",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "i2c-bus": "^5.2.0"
+  }
+}
